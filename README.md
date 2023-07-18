@@ -1,8 +1,9 @@
 # Vue 3 + API Rest
 
 #Setup 
-npm run dev
-npm run api
+
+<b> npm run dev <b>
+<b>npm run api <b>
 
 
 ## Recommended IDE Setup
